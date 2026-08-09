@@ -26,6 +26,6 @@ This workshop is perfect for developers and architects eager to broaden their ho
 
 | Event | Location | Date | Time | Room | Event Materials |
 |-------|:--------:|-----:|-----:|-----:|----------------:|
+| KCDC 2026 | Kansas City, MO | September 9, 2026 | 08:00 CDT | 2102A | Available Afterwards |
+| Beer City Code 2026 | Grand Rapids, MI | August 14, 2026 | 09:00 EDT | Room 225 | Available Afterwards |
 | Software Design & Development Conference 2026 | London, UK | May 11, 2026 | 09:30 BST | TBA | [Event Materials](https://github.com/TaleLearnCode/OneDayFourArchitectures-SDD2026) |
-| Beer City Code 2026 | Grand Rapids, MI | August 14, 2026 | TBA | TRA | Available Afterwards |
-| KCDC 2026 | Kansas City, MO | September 9, 2026 | TBA | TBA | Available Afterwards |
